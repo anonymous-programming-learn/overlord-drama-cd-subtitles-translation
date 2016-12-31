@@ -8,8 +8,10 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Audio File: Ogrelawd Drama CD RAW - Show must go on-aLOf_O289XE.mkv
-Active Line: 85
+Export Encoding: Unicode (UTF-8)
+Audio File: Overlord Drama CD special manga vol. 6 RAW - Show must go on.mkv
+Scroll Position: 86
+Active Line: 92
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,3 +105,63 @@ Dialogue: 0,0:07:09.73,0:07:10.93,Default,,0,0,0,,I'm terribly sorry!
 Dialogue: 0,0:07:12.16,0:07:15.26,Default,,0,0,0,,What.a shameless.bunch.
 Dialogue: 0,0:07:15.76,0:07:20.13,Default,,0,0,0,,This happens all the time, it's about time you learn from it.
 Dialogue: 0,0:07:21.63,0:07:26.46,Default,,0,0,0,,If you may, Ainz-sama, Please continue the rest.
+Dialogue: 0,0:07:26.46,0:07:36.85,Default,,0,0,0,,Actually to repay everyone's work, I am planning to introduce a welfare system to Nazarick.
+Dialogue: 0,0:07:37.45,0:07:42.20,Default,,0,0,0,, Wel-fare system? What is that?
+Dialogue: 0,0:07:42.20,0:07:47.05,Default,,0,0,0,, The world that I was previously living in had something called a 'company'
+Dialogue: 0,0:07:47.05,0:07:51.70,Default,,0,0,0,, Well, you could think of it as something like a guild.
+Dialogue: 0,0:07:51.70,0:07:54.55,Default,,0,0,0,, It would take a long time if I were to explain it in detail...
+Dialogue: 0,0:07:54.55,0:08:02.45,Default,,0,0,0,,Basically it is the name of the system a company offers to their members, to help them work comfortably.
+Dialogue: 0,0:08:02.45,0:08:11.70,Default,,0,0,0,, (In reality there are many companies that don't maintain it though. I have never　benefited from it after all.)
+Dialogue: 0,0:08:11.70,0:08:14.50,Default,,0,0,0,, A service, huh...
+Dialogue: 0,0:08:14.50,0:08:22.85,Default,,0,0,0,,Exactly. For a start, I am thinking of building　new facilities that you wish for inside Nazarick.
+Dialogue: 0,0:08:22.85,0:08:29.40,Default,,0,0,0,,Making Nazarick more comfortable would contribute to the reinforcement of Nazarick after all.
+Dialogue: 0,0:08:29.40,0:08:31.05,Default,,0,0,0,,Do you have any wishes?
+Dialogue: 0,0:08:31.05,0:08:41.45,Default,,0,0,0,,Ainz-sama... I think it is a great proposal, but Nazarick already has enough variety of facilities in my opinion.
+Dialogue: 0,0:08:41.45,0:08:45.50,Default,,0,0,0,,9th floor even has a Spa Resort and a Bar after all.
+Dialogue: 0,0:08:45.50,0:08:52.30,Default,,0,0,0,,There is even a Nail Saloon. Thanks to that I can preserve my beautiful nails.
+Dialogue: 0,0:08:52.30,0:08:59.65,Default,,0,0,0,,From.a.Snowy.Mountain, to.a.Jungle. I.Think.it.Would.be.Harder.to Find.Something.We.Don't.Have.
+Dialogue: 0,0:08:59.65,0:09:02.25,Default,,0,0,0,,Hmmm, I see...
+Dialogue: 0,0:09:02.25,0:09:04.25,Default,,0,0,0,,Umm...
+Dialogue: 0,0:09:04.25,0:09:08.45,Default,,0,0,0,,Oh, it's rare to see Mare speak!
+Dialogue: 0,0:09:08.45,0:09:15.90,Default,,0,0,0,,Recently, after talking with Ainz-sama I was thinking about it...
+Dialogue: 0,0:09:15.90,0:09:22.55,Default,,0,0,0,,No need to be reserved, Nazarick is your　place too.
+Dialogue: 0,0:09:22.55,0:09:26.25,Default,,0,0,0,,Any kind of wish will be made real.
+Dialogue: 0,0:09:26.25,0:09:29.55,Default,,0,0,0,,Then.. I want to request an ocean!
+Dialogue: 0,0:09:29.55,0:09:31.25,Default,,0,0,0,,An ocean, is it?
+Dialogue: 0,0:09:31.25,0:09:40.20,Default,,0,0,0,,Yes! I was thinking if we had an ocean near the jungle in the 6th floor, we could raise many more animals and plants!
+Dialogue: 0,0:09:40.20,0:09:44.55,Default,,0,0,0,,You... There　is something called a limit in everything!
+Dialogue: 0,0:09:44.55,0:09:48.65,Default,,0,0,0,,Was that no　good, after all?
+Dialogue: 0,0:09:48.65,0:09:54.70,Default,,0,0,0,,Well, for now I am just hearing your opinions.
+Dialogue: 0,0:09:54.70,0:10:01.40,Default,,0,0,0,,Hmmm... If I were to say it, maybe a torture room?
+Dialogue: 0,0:10:01.40,0:10:05.40,Default,,0,0,0,,We.Already.Have.a.Torture.Room in.the.5th.Floor don't.We?
+Dialogue: 0,0:10:05.40,0:10:14.70,Default,,0,0,0,,You see, I want more variation. Fire torturing, water torturing,　ishidaki (rock cradling), medication and　maybe Sai no Kawara (Torture of Dead Men) could be good too.
+Dialogue: 0,0:10:14.70,0:10:16.70,Default,,0,0,0,,I-I see...
+Dialogue: 0,0:10:16.70,0:10:19.15,Default,,0,0,0,,What about you onee-chan?
+Dialogue: 0,0:10:19.15,0:10:26.70,Default,,0,0,0,,Me? I guess maybe an animal training facility that I can swing my whip　with all my strength.
+Dialogue: 0,0:10:26.70,0:10:30.65,Default,,0,0,0,,How.is.That.Any.Different From.a.Torture.Room?
+Dialogue: 0,0:10:30.65,0:10:37.05,Default,,0,0,0,,Training and torture is entirely different! You can't call it training, if you don't put love in it!
+Dialogue: 0,0:10:37.05,0:10:41.65,Default,,0,0,0,,You can't call it torture either if you don't do it with love, Aura.
+Dialogue: 0,0:10:41.65,0:10:42.65,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:10:42.65,0:10:46.85,Default,,0,0,0,,Ainz-sama! May I humbly ask for something?
+Dialogue: 0,0:10:46.85,0:10:49.10,Default,,0,0,0,,Y-Yeah. I don't mind.
+Dialogue: 0,0:10:49.10,0:10:54.90,Default,,0,0,0,,If it can be done, could we have a children's room?
+Dialogue: 0,0:10:54.90,0:10:56.10,Default,,0,0,0,,Haah?
+Dialogue: 0,0:10:56.10,0:11:05.95,Default,,0,0,0,,It would have pink walls, a hanging toy from the ceiling and a baby bed at the center.
+Dialogue: 0,0:11:05.95,0:11:10.05,Default,,0,0,0,,Why would you need such a thing?
+Dialogue: 0,0:11:10.05,0:11:12.65,Default,,0,0,0,,It doesn't concern you does it?
+Dialogue: 0,0:11:12.65,0:11:22.25,Default,,0,0,0,,Well if you want to make one, you can do it, but I will be partaking in the design.
+Dialogue: 0,0:11:22.25,0:11:29.55,Default,,0,0,0,,The walls black, the hanging toy will be a bat and the baby bed will be changed into a cradle.
+Dialogue: 0,0:11:29.55,0:11:31.85,Default,,0,0,0,,Why are you intervening!?
+Dialogue: 0,0:11:31.85,0:11:38.35,Default,,0,0,0,,Of course, I will be first one who will be using that room after all.
+Dialogue: 0,0:11:38.35,0:11:44.40,Default,,0,0,0,,It seems like we need to settle this fight, Shalltear.
+Dialogue: 0,0:11:44.40,0:11:50.55,Default,,0,0,0,,Oh, why do we need to carry out a fight that we know the result of?
+Dialogue: 0,0:11:50.55,0:11:58.25,Default,,0,0,0,,Yes you are right, of course I will be the one who bears the child of the Supreme Being even if we don't...
+Dialogue: 0,0:11:58.25,0:12:03.05,Default,,0,0,0,,Ainz-sama, lets talk about the decoration of the room!
+Dialogue: 0,0:12:03.05,0:12:07.35,Default,,0,0,0,,GET AWAY FROM AINZ-SAMA YOU BITCH!
+Dialogue: 0,0:12:07.35,0:12:10.60,Default,,0,0,0,,BE QUIET!!
+Dialogue: 0,0:12:10.60,0:12:12.05,Default,,0,0,0,,I am very sorry!
+Dialogue: 0,0:12:12.05,0:12:14.45,Default,,0,0,0,,Forgive my insolence!
+Dialogue: 0,0:12:14.45,0:12:17.50,Default,,0,0,0,,Isn't this a Déjà vu?
+Dialogue: 0,0:12:17.50,0:12:25.45,Default,,0,0,0,,Sigh... This topic will be carried over to the next discussion. Dismissed!
+Dialogue: 0,0:12:27.25,0:12:29.70,Default,,0,0,0,,Ainz-sama, where are you going?
+Dialogue: 0,0:12:29.70,0:12:31.70,Default,,0,0,0,,Its a personal business.
